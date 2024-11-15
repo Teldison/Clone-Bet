@@ -12,8 +12,19 @@ const App: React.FC = () => {
       <SearchBar />
 
       <View style={styles.containerPromocao}>
-        <PromotionCard text="Aproveite as festas com prêmios em dinheiro e fichas douradas toda semana" />
-        <PromotionCard text="Desafie no BlackJack Ao Vivo" />
+        <Text style={styles.apostaEspecial}>Aposte agora nos mercados especiais!</Text>
+        <PromotionCard
+          text="Campeão do super Mundial 2025"
+          image="https://conteudo.imguol.com.br/c/esporte/bf/2024/08/22/times-classificados-para-o-super-mundial-de-clubes-de-2025-1724347565579_v2_750x421.jpg"
+        />
+        <PromotionCard
+          text="Quem ganhará a Libertadores?"
+          image="https://upload.wikimedia.org/wikipedia/pt/5/53/Cartaz_Final_da_Libertadores_2024.jpg"
+        />
+        <PromotionCard
+          text="Quem sera o campeão da Champions League?"
+          image="https://t2.tudocdn.net/620371?w=1920&h=1440"
+        />
       </View>
 
       <Text style={styles.tituloSessao}>Promoções de Game Show</Text>
@@ -23,16 +34,15 @@ const App: React.FC = () => {
       </View>
     </ScrollView>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#121212',
-
   },
   containerPromocao: {
-    padding: 16,
+    padding: 30,
   },
   tituloSessao: {
     color: '#00ff6a',
@@ -47,6 +57,12 @@ const styles = StyleSheet.create({
     justifyContent: 'space-around',
     padding: 16,
   },
+  apostaEspecial: {
+    color: '#00ff6a',
+    marginBottom: 15,
+    fontSize: 20,
+    marginLeft: 18
+  }
 });
 
 export default App;
