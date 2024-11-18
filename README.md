@@ -51,9 +51,12 @@ Componente de cartão de jogo que recebe title e minBet como propriedades e exib
 
 ## Imagem de exemplo
 
-- ![interface original] (./assets/images/1.jpg)
+  
+- ![Imagem do WhatsApp de 2024-11-18 à(s) 12 45 16_6d90f326](https://github.com/user-attachments/assets/c3bc2a02-5a58-475f-b5fe-bf77acb9cc57)
+
+
 
 ## Realização
 
-- ![Print do ExpoGo] (./assets/images/2.jpg)
-- ![Print do ExpoGo] (./assets/images/3.jpg)
+- ![Imagem do WhatsApp de 2024-11-18 à(s) 13 48 12_8858f217](https://github.com/user-attachments/assets/5650f8ee-a4e7-4a4d-853d-6b1c1ebcdec4)
+- ![Imagem do WhatsApp de 2024-11-18 à(s) 13 48 31_330de460](https://github.com/user-attachments/assets/e835ea40-5db3-4fbb-838a-cd9971fcb2bd)
