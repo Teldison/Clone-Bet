@@ -48,3 +48,12 @@ Componente de cartão de jogo que recebe title e minBet como propriedades e exib
 
 ## Produção
 - Samuel Teldison
+
+## Imagem de exemplo
+
+- ![interface original] (./assets/images/1.jpg)
+
+## Realização
+
+- ![Print do ExpoGo] (./assets/images/2.jpg)
+- ![Print do ExpoGo] (./assets/images/3.jpg)

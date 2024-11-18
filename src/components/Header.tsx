@@ -12,7 +12,7 @@ const Header: React.FC = () => (
     </View>
 
     <View style={styles.LogoCentro}>
-      <Text style={styles.logoTexto}>BetTeldison</Text>
+      <Text style={styles.logoTexto}>Bet 365</Text>
     </View>
 
     <View style={styles.botoesLinks}>
